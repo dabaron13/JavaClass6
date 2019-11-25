@@ -1,0 +1,9 @@
+ar\com\educacionit\servlet\ProcesarArchivoServlet.class
+ar\com\educacionit\servlet\LeerArchivoTextoServlet.class
+ar\com\app\servlet\AltaProductoServlet.class
+ar\com\educacionit\servlet\CopiarArchivoBinarioServlet.class
+ar\com\educacionit\fileparse\FileParser.class
+ar\com\educacionit\servlet\EscribirArchivoTextoServlet.class
+ar\com\app\servlet\ListarProductoServlet.class
+ar\com\educacionit\servlet\PersonaServlet.class
+ar\com\app\servlet\BuscarProductoServlet.class

@@ -1,0 +1,3 @@
+id;descripcion;precio
+1;pendriver 16gb;375,99
+2;hd ssd 128 gb;1375,75
